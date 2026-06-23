@@ -4,15 +4,21 @@ A complete backend RESTful API for managing student events, registrations, and f
 
 ---
 
-## 👨‍💻 Author
+## 👥 Group Members
+
+| # | Name | Student ID | Role |
+|---|---|---|---|
+| 1 | **Syed Ali Raza** | 67438 | Lead Developer — API, Services, Controllers |
+| 2 | **Muneer Akhtar** | 67229 | Models, DTOs, Database Schema |
+| 3 | **Iqrar Hussain** | 68099 | Testing, Documentation, Report |
 
 | Field | Details |
 |---|---|
-| **Name** | Syed Ali Raza |
-| **Student ID** | 67438 |
 | **Program** | BS Software Engineering |
 | **University** | Iqra University, Karachi |
+| **Department** | FEST — Faculty of Engineering Sciences & Technology |
 | **Course** | Web Engineering |
+| **Semester** | Spring 2026 |
 
 ---
 
